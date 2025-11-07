@@ -59,7 +59,7 @@ Here the assignment of `greeting` is easier to read, because it's defined all at
 
 ## Evaluated Expressions
 
-While the main use of f-strings is to embed variables in strings, you can also use it to embed evaluated expressions. For example, here's a program that calculates the result of 2+2 inside an f-string:
+While the main use of f-strings is to embed variables in strings, you can also use them to embed evaluated expressions. For example, here's a program that calculates the result of 2+2 inside an f-string:
 
 
 ```python
