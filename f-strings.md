@@ -96,7 +96,9 @@ Now it's your turn to practice using f-strings to combine variables and expressi
   * Greets the user by name
   * Tells them their current age
   * Tells them what their age will be next year
-  
+
+Then print the resulting string to the console.
+
 ```python
 name = "Jane"
 age = 25
