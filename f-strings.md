@@ -92,7 +92,7 @@ This f-string includes two variables (`x` and `y`) and an expression (`x + y`). 
 
 # Exercise
 
-Now it's your turn to practice using f-strings to combine variables and expressions. Below is a program that contains a user's name and age. Create and print a single f-string that:
+Now it's your turn to practice using f-strings. Below is a program that contains a user's name and age. Create and print a single f-string that:
   * Greets the user by name
   * Tells them their current age
   * Tells them what their age will be next year
